@@ -11,6 +11,7 @@ public class MongoTestApplication {
 		System.out.println("Added Second change");
 		SpringApplication.run(MongoTestApplication.class, args);
 //added this
+		//added again
 	}
 
 }
