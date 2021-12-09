@@ -10,7 +10,7 @@ public class MongoTestApplication {
 		System.out.println("Added First change");
 		System.out.println("Added Second change");
 		SpringApplication.run(MongoTestApplication.class, args);
-
+//added this
 	}
 
 }
