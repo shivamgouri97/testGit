@@ -12,6 +12,7 @@ public class MongoTestApplication {
 		SpringApplication.run(MongoTestApplication.class, args);
 //added this
 		//added again
+		//added branch 3
 	}
 
 }
